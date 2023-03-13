@@ -1,7 +1,3 @@
 ## Teste.
 
-
-
-###Teste 3
-
-
+--- Linha pay pal
